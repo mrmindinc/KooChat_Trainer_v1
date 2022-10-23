@@ -1,0 +1,2 @@
+data/chatbot_dataset_l.csv filter=lfs diff=lfs merge=lfs -text
+data/chatbot_dataset_s.csv filter=lfs diff=lfs merge=lfs -text
